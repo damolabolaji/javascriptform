@@ -29,6 +29,10 @@ form {
   background:#f4f4f4;
 }
 
+form label {
+  display: block;
+}
+
 form input[type='text']{
   border: 1px solid #ccc;
   border-radius: 5px;
@@ -36,6 +40,17 @@ form input[type='text']{
   padding: 8px;
 }
 
+.btn{
+  background-color:#333;
+  color: white;
+  padding: 15px 15px;
+  margin: 5px 0;
+  width: 100px;
+  display: block;
+  border-radius: 5px;
+  border: 0;
+  
+}
 
 //javascript created class
 .error{
@@ -44,3 +59,5 @@ form input[type='text']{
   margin: 20px;
   padding: 10px;
 }
+
+
