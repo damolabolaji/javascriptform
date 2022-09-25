@@ -23,3 +23,24 @@ main{
   padding:3rem 2rem;
   width: 50rem;
 }
+
+form {
+  padding: 2rem;
+  background:#f4f4f4;
+}
+
+form input[type='text']{
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  padding: 8px;
+}
+
+
+//javascript created class
+.error{
+  background-color: orangered;
+  color: white;
+  margin: 20px;
+  padding: 10px;
+}
