@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html{
+  font-size:62.5%;
+}
+
+body{
+  font-family: 'Helvetica', sanss-serif;
+  line-height: 1.6;
+}
+
+ul{
+  list-style:none;
+}
+
+main{
+  margin:auto;
+  background-color: gray;
+  padding:3rem 2rem;
+  width: 50rem;
+}
